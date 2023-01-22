@@ -1,0 +1,6 @@
+name = readline("Enter the name")
+roll = readline("Enter the roll")
+branch = readline("Enter the branch")
+cat("Name",name)
+cat("Roll",roll)
+cat("Branch",branch)
